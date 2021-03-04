@@ -1670,6 +1670,8 @@ It might be more appropriate to consider an effect of Group as well as body
 size. We can do this using **Linear models for categorical explanatory variables**/**ANOVA**, 
 check out these pages to continue the analysis of this data.
 
+## {.toc-ignore}
+
 ### What's next {.facta .toc-ignore}
 
 * **Linear models for categorical explanatory variables**/**ANOVA** 
@@ -1678,8 +1680,6 @@ for analyses when your explanatory variable is not numeric
 explanatory variable
 * **Generalised linear models** for analyses when your response variable is not 
 normally distributed
-
-## {.toc-ignore}
 
 ### Further reading {.facta .toc-ignore}
 
