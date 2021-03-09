@@ -422,7 +422,8 @@ The response variable ($Y$) = wing length, it is the result.
 </br>
 
 You can then plug these variables into the `lm()` function in the below format 
-using the column names in place of `y` and `x` and 
+using the column names in place of `response` and 
+`explanatory` and 
 including your data frame name as the data argument. 
 
 </br>
